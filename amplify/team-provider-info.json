@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-awssmartdash-dev-153009-authRole",
+            "UnauthRoleArn": "arn:aws:iam::409460944769:role/amplify-awssmartdash-dev-153009-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::409460944769:role/amplify-awssmartdash-dev-153009-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-awssmartdash-dev-153009-deployment",
+            "UnauthRoleName": "amplify-awssmartdash-dev-153009-unauthRole",
+            "StackName": "amplify-awssmartdash-dev-153009",
+            "StackId": "arn:aws:cloudformation:us-east-1:409460944769:stack/amplify-awssmartdash-dev-153009/1d8bb1b0-e3ed-11ea-b67b-124aa02dc2ed",
+            "AmplifyAppId": "d8ffj8w2ee9bn"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d8ffj8w2ee9bn",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
