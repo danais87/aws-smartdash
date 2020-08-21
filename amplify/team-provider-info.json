@@ -17,6 +17,9 @@
                     "appId": "d8ffj8w2ee9bn",
                     "type": "manual"
                 }
+            },
+            "auth": {
+                "awssmartdashebe9ab99": {}
             }
         }
     }
